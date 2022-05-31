@@ -1,0 +1,9 @@
+Nama: Budi
+Umur: 19
+Alamat: Bogor
+Nama: Budi
+Umur: 19
+Alamat: Tangerang
+Nama: Sandi
+Umur: 20
+Alamat: Tangerang
